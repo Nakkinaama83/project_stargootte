@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Interactable
+  - Wall
+  - Door
+  - Enemy
+  - Reserve
+  - Tech
+  - Scientist
+  - Soldier
+  - Item
+  - ActiveInventory
+  - InActiveInventory
+  - NotInSquadInventory
+  - Box
+  - Inventory
+  - Chest
+  - Target
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Floor
+  - Trigger
+  - Shootable
+  - Ammo
+  - NavTarget
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 3687504885
+    locked: 0

@@ -1,0 +1,4 @@
+sceneSetups:
+- path: "Assets/Scenes/St\xE5rGate_on_board_ver1.unity"
+  isLoaded: 1
+  isActive: 1
