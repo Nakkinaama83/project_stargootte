@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2d6dd8bea09c38043b0475bd014c110e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - healthSlider: {instanceID: 0}
+  - canvasGameObject: {instanceID: 0}
+  - someBgSprite: {fileID: 21300000, guid: ea5873cfd9158664f89459f0c9e1d853, type: 3}
+  - someFillSprite: {fileID: 21300000, guid: 0626b924325d1c34cafa6b22297f4e4f, type: 3}
+  - someKnobSprite: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+  - healthBarPrefab: {fileID: 6475666528625618916, guid: 6189c3757362130499d16250681c862e,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

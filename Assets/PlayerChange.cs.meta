@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 96f051299dca5984cb000303b3841ac5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - CurrentPlayer: {instanceID: 0}
+  - NextPlayer: {instanceID: 0}
+  - PlayerCamera: {instanceID: 0}
+  - AddSquadMember: {instanceID: 0}
+  - RemSquadMember: {instanceID: 0}
+  - canvasGameObject: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
