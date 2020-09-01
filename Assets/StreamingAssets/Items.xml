@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<ItemContainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Weapons>
+    <Item xsi:type="Weapon">
+      <ItemType>WEAPON</ItemType>
+      <SpriteNeutral>Weapons/AssaultRifle</SpriteNeutral>
+      <SpriteHighlighted>Weapons/AssaultRifle</SpriteHighlighted>
+      <MaxSize>1</MaxSize>
+      <ItemName>Pulse Rifle</ItemName>
+      <Description>Automatic fire</Description>
+      <ClipSize>30</ClipSize>
+      <AttackSpeed>600</AttackSpeed>
+    </Item>
+    <Item xsi:type="Weapon">
+      <ItemType>WEAPON</ItemType>
+      <SpriteNeutral>Weapons/ShotGun</SpriteNeutral>
+      <SpriteHighlighted>Weapons/ShotGun</SpriteHighlighted>
+      <MaxSize>1</MaxSize>
+      <ItemName>Pump Shotgun</ItemName>
+      <Description>12 Gauge Pump-Action Shotgun</Description>
+      <ClipSize>6</ClipSize>
+      <AttackSpeed>0</AttackSpeed>
+    </Item>
+  </Weapons>
+  <Equipment>
+    <Item xsi:type="Equipment">
+      <ItemType>COLLECTABLE</ItemType>
+      <SpriteNeutral>Equipment/ingots</SpriteNeutral>
+      <SpriteHighlighted>Equipment/ingots</SpriteHighlighted>
+      <MaxSize>10</MaxSize>
+      <ItemName>Raw Material</ItemName>
+      <Description>Somekind of material</Description>
+    </Item>
+    <Item xsi:type="Equipment">
+      <ItemType>EQUIPMENT</ItemType>
+      <SpriteNeutral>Equipment/GroupTargeting</SpriteNeutral>
+      <SpriteHighlighted>Equipment/GroupTargeting</SpriteHighlighted>
+      <MaxSize>1</MaxSize>
+      <ItemName>Group Targeting</ItemName>
+      <Description>All Soldiers Shoots The Same Target</Description>
+    </Item>
+    <Item xsi:type="Equipment">
+      <ItemType>EQUIPMENT</ItemType>
+      <SpriteNeutral>Equipment/OneMind2</SpriteNeutral>
+      <SpriteHighlighted>Equipment/OneMind2</SpriteHighlighted>
+      <MaxSize>1</MaxSize>
+      <ItemName>One Mind</ItemName>
+      <Description>Once activated, this gives you a more strategic control over squad</Description>
+    </Item>
+  </Equipment>
+  <Consumeables>
+    <Item xsi:type="Consumeable">
+      <ItemType>HEALTH</ItemType>
+      <SpriteNeutral>Consumeables/FirstAidPillow</SpriteNeutral>
+      <SpriteHighlighted>Consumeables/FirstAidPillow</SpriteHighlighted>
+      <MaxSize>10</MaxSize>
+      <ItemName>HealthKit</ItemName>
+      <Description>Use to restore health</Description>
+      <Health>100</Health>
+      <Ammo>0</Ammo>
+    </Item>
+    <Item xsi:type="Consumeable">
+      <ItemType>AMMO</ItemType>
+      <SpriteNeutral>Consumeables/PulseRound</SpriteNeutral>
+      <SpriteHighlighted>Consumeables/PulseRound</SpriteHighlighted>
+      <MaxSize>50</MaxSize>
+      <ItemName>6mm PR</ItemName>
+      <Description>Ammunition for Pulse Rifle</Description>
+      <Health>0</Health>
+      <Ammo>1</Ammo>
+    </Item>
+    <Item xsi:type="Consumeable">
+      <ItemType>AMMO</ItemType>
+      <SpriteNeutral>Consumeables/ShotgunShell</SpriteNeutral>
+      <SpriteHighlighted>Consumeables/ShotgunShell</SpriteHighlighted>
+      <MaxSize>20</MaxSize>
+      <ItemName>12 Gauge</ItemName>
+      <Description>Ammunition for 12G Shotgun</Description>
+      <Health>0</Health>
+      <Ammo>1</Ammo>
+    </Item>
+  </Consumeables>
+</ItemContainer>
